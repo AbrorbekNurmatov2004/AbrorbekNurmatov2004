@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Abrorbek!
 
-<!--
-**AbrorbekNurmatov2004/AbrorbekNurmatov2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a goal-oriented and passionate **Java Backend Developer** who highly values writing clean, maintainable, and efficient code. Currently, I am focused on building secure web applications, RESTful APIs, and smart Telegram bot ecosystems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Java (17+)
+* **Frameworks:** Spring Boot, Spring Security (JWT, Form Login), Spring MVC, Spring Data JPA, Spring AOP
+* **Databases & Migrations:** PostgreSQL, MongoDB, Flyway
+* **Tools & DevOps:** Git, GitHub Actions, Docker, Maven
+
+---
+
+### 🚀 Featured Projects
+
+* **🏥 Hospital Management System ("MedFlow")**
+  * A secure RESTful API featuring Role-Permission based access control. Implemented JWT authentication, robust custom exception handling, and optimized data structures.
+* **🍽️ Restaurant Management System ("Oshxona")**
+  * A comprehensive restaurant automation system fully integrated with a PostgreSQL database and an interactive Telegram bot interface for seamless order management.
+* **💱 Currency Conversion Bot**
+  * An intelligent currency converter bot utilizing RestTemplate/WebClient for third-party API integration and MongoDB for high-performance data storage.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbrorbekNurmatov2004&show_icons=true&theme=tokyonight" alt="Abrorbek's GitHub Stats" />
+</p>
+
+---
+
+### 🤝 Connect with me:
+* **LinkedIn:** [linkedin.com/in/abror-nurmatov](https://linkedin.com/in/abror-nurmatov)
+* **Email:** nurmatovabror20y@gmail.com
