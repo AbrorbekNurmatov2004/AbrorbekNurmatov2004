@@ -7,9 +7,9 @@ I am a goal-oriented and passionate **Java Backend Developer** who highly values
 ### 🛠️ Tech Stack & Tools
 
 * **Languages:** Java (17+)
-* **Frameworks:** Spring Boot, Spring Security (JWT, Form Login), Spring MVC, Spring Data JPA, Spring AOP
-* **Databases & Migrations:** PostgreSQL, MongoDB, Flyway
-* **Tools & DevOps:** Git, GitHub Actions, Docker, Maven
+* **Frameworks:** Spring Boot, Spring Security (JWT), Spring MVC, Spring Data JPA, Spring AOP, Spring Shell
+* **Databases & Migrations:** PostgreSQL, MongoDB(basic), Flyway
+* **Tools & DevOps:** Git/Github, Maven
 
 ---
 
