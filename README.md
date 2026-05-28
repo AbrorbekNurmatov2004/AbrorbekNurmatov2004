@@ -24,14 +24,6 @@ I am a goal-oriented and passionate **Java Backend Developer** who highly values
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbrorbekNurmatov2004&show_icons=true&theme=tokyonight" alt="Abrorbek's GitHub Stats" />
-</p>
-
----
-
 ### 🤝 Connect with me:
 * **LinkedIn:** [linkedin.com/in/abror-nurmatov](https://linkedin.com/in/abror-nurmatov)
 * **Email:** nurmatovabror20y@gmail.com
