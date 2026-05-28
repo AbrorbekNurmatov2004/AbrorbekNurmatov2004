@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abrorbek!
+# 👋 Hi, I'm Abror!
 
 I am a goal-oriented and passionate **Java Backend Developer** who highly values writing clean, maintainable, and efficient code. Currently, I am focused on building secure web applications, RESTful APIs, and smart Telegram bot ecosystems.
 
