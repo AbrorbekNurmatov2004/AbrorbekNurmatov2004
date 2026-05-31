@@ -10,6 +10,7 @@ I am a goal-oriented and passionate **Java Backend Developer** who highly values
 * **Frameworks:** Spring Boot, Spring Security (JWT), Spring MVC, Spring Data JPA, Spring AOP, Spring Shell
 * **Databases & Migrations:** PostgreSQL, MongoDB(basic), Flyway
 * **Tools & DevOps:** Git/Github, Maven
+* **Programming Principles:** SOLID, DRY, KISS, ACID
 
 ---
 
